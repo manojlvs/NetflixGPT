@@ -1,12 +1,10 @@
+import Body from "./components/Body";
 
-import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1 className='font-bold bg-green-600'>MANOJ LVS</h1>
-    </div>
+     <Body/>
   );
-}
+};
 
 export default App;
