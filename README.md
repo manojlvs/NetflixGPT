@@ -28,6 +28,14 @@
 - Fetch Data for Trailer video
 - Update Store with Trailer Video Data
 - Embedded the Youtude Video and make it autoPlay and mute
+- Bulid Secondary Component
+- Build Movie List
+- build Movie Card
+- TMDB Image Cdn Link 
+- UsePopularMovies Custom hook
+- GPT Search Page
+- GPT Search Bar
+- Multi-lang Featuren in App
 
 
 
